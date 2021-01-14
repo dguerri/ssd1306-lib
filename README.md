@@ -2,8 +2,10 @@
 
 ## WiP
 
-Not yet a proper library, but this repo contains code to run the ssd1306 oled display on I2C for ESP32.
+This repo contains code to run the ssd1306 oled display on I2C for ESP32.
 I am targeting this at the [Heltec ESP32](https://heltec.org/project/wifi-kit-32/).
+
+To use it, clone the repository in the component directory of your project.
 
 ![Alt Text](doc/ssd1306-demo.gif)
 

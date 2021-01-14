@@ -26,8 +26,8 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 
-#include "lib/ssd1306_esp32.h"
-#include "lib/ssd1306_utils.h"
+#include <ssd1306_esp32.h>
+#include <ssd1306_utils.h>
 
 #include "mario.h"
 
